@@ -1,4 +1,7 @@
 # Healthcare-Analysis-using-SQL-and-Excel
+## Data Source
+
+You can view and explore the full dataset [here](https://docs.google.com/spreadsheets/d/15EbzjIWRCdHhHCy8iXfvdUHO7ONW65PiNuOQ1Gmy6Es/edit?gid=327695820#gid=327695820).
 
 ---
 
