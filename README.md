@@ -1,15 +1,28 @@
 # Healthcare-Analysis-using-SQL-and-Excel
-Objective:
+Here’s how you can structure that section for your GitHub profile:
 
-To analyze patient demographics, specifically ethnicity, and correlate those findings with  Obsessive-Compulsive (OBS) scores and the most prevalent compulsion types.
+---
 
-Results:
+# Patient OCD Data Analysis
 
-Patient Demographics: 80% of the patient population originates from Asia, Hispanic, and Caucasian backgrounds.
+## Objective
 
-OBS Scores: Each obsession type exhibited an average OBS score of 20%. This suggests a consistent severity level across different obsession categories.
+The goal of this analysis is to examine patient demographics, specifically focusing on ethnic diversity, and correlate those findings with Obsessive-Compulsive Disorder (OCD) metrics. The study focuses on analyzing Obsessive-Compulsive (OBS) scores and identifying the most common compulsion types among patients.
 
-Compulsion Types: Washing and counting compulsions were the most common, representing 42% of all compulsion types observed in the study.
+## Results
+
+### Patient Demographics
+- 80% of the patient population belongs to Asian, Hispanic, and Caucasian backgrounds, showing a significant concentration in these ethnic groups.
+
+### OBS Scores
+- Across all obsession categories, the average Obsession (OBS) score remained consistent, with a 20% severity rate. This indicates a uniform level of severity across various obsession types in the patient sample.
+
+### Compulsion Types
+- Washing and counting compulsions are the most frequently observed, accounting for 42% of the total compulsion types in the dataset.
+
+---
+
+You can use this directly on your profile or in your repository's README to provide a concise summary of your analysis!
 ---
 
 # Patient Data Analysis Queries
