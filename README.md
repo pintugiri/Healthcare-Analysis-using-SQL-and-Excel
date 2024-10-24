@@ -22,9 +22,6 @@ The goal of this analysis is to examine patient demographics, specifically focus
 
 ---
 
-You can use this directly on your profile or in your repository's README to provide a concise summary of your analysis!
----
-
 # Patient Data Analysis Queries
 
 This repository contains SQL queries to analyze patient data, specifically focused on OCD (Obsessive-Compulsive Disorder) statistics. Below are queries that explore gender, ethnicity, and other factors in relation to OCD and its symptoms.
