@@ -1,5 +1,4 @@
 # Healthcare-Analysis-using-SQL-and-Excel
-Here’s how you can structure that section for your GitHub profile:
 
 ---
 
