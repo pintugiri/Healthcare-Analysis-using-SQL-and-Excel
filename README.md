@@ -50,6 +50,15 @@ select
 from cte;
 ```
 
+
+  **Result:**
+  | EmploymentStatus | ApprovedLoans | TotalLoans | ApprovalRate (%) |
+  |------------------|---------------|------------|------------------|
+  | Employed         | 4089          | 17036      | 24.00            |
+  |Self-Employed     | 438           | 1573       | 27.84            |
+  |Unemployed        | 253           | 1391       | 18.19            |
+
+---
 ### 2. Count of Patients by Ethnicity and Their Average Obsession Score
 ```sql
 select
