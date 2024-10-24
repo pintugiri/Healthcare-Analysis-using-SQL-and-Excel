@@ -1,6 +1,13 @@
 # Healthcare-Analysis-using-SQL-and-Excel
-To structure this for your GitHub profile, you can organize it into clear sections and add comments to explain each query's purpose. Here's how you could do it:
+Objective:
 
+To analyze patient demographics, specifically ethnicity, and correlate those findings with  Obsessive-Compulsive (OBS) scores and the most prevalent compulsion types.
+
+Results:
+
+Patient Demographics: 80% of the patient population originates from Asia, Hispanic, and Caucasian backgrounds.
+OBS Scores: Each obsession type exhibited an average OBS score of 20%. This suggests a consistent severity level across different obsession categories.
+Compulsion Types: Washing and counting compulsions were the most common, representing 42% of all compulsion types observed in the study.
 ---
 
 # Patient Data Analysis Queries
